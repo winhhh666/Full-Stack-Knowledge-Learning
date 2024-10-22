@@ -1,0 +1,1 @@
+[Typora 免费安装教程（已支持最新版 1.9.5）_typora免费安装-CSDN博客](https://blog.csdn.net/qq_61621323/article/details/141036982)
