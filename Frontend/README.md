@@ -1,1 +1,1 @@
-this is a respository for learning fullstack knowledge
+this is a respository for learning frontend develop knowledge
