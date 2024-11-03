@@ -1,0 +1,1 @@
+[lombok标签之@Data @AllArgsConstructor @@NoArgsConstructor -如何去除get，set方法。@Data注解和如何使用，lombok - aspirant - 博客园](https://www.cnblogs.com/aspirant/p/10298752.html)
