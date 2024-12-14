@@ -1,0 +1,2 @@
+myAlert.innerText  = msg
+
